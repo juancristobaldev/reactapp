@@ -1,0 +1,12 @@
+.ButtonAdd {
+  background-color: black;
+  color: white;
+  font-size: 2rem;
+  font-weight: border;
+  width: 3rem;
+  border-radius: 1.5rem 1.5rem;
+}
+.ButtonLogin {
+  background: black;
+  color: white;
+}
